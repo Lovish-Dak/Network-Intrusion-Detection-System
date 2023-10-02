@@ -1,7 +1,7 @@
 # Network-Intrusion-Detection-System
 
 # Overview
-This is my B.Tech Project, where I created a model which can detect network intrusions effectively. For the effective intrusion detection system, I used the Convolutional Neural Networks as it can capture both spatial and temporal patterns, and I used BiLSTM layers as well because LSTM generalizes well on time series or sequential data.
+This is my B.Tech Project, where I created a model which can detect network intrusions effectively. For the effective intrusion detection system, I used the Convolutional Neural Networks as they can capture both spatial and temporal patterns, and I used BiLSTM layers as well because LSTM generalizes well on time series or sequential data.
 
 # Datasets Used
 (i) NSL-KDD <br>
