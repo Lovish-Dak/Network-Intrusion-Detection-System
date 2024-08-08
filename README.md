@@ -27,4 +27,4 @@ This is my B.Tech Project, where I created a model which can detect network intr
 10. Dense Layer (Softmax Regression in case of Multi-Class Classification and Logistic Regression in case of Binary Classification)
 
 Reference Paper: https://drive.google.com/file/d/1jK2B6lxqEVkM7FR3R9pknibk5jYzrLIY/view?usp=drive_link <br>
-PPT Link: https://www.canva.com/design/DAFr53dP_J0/N4rd0QFCI5OkGtGEM5iZ8w/edit?utm_content=DAFr53dP_J0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+PPT Link: https://www.canva.com/design/DAGNOmyvUU4/5tyNhD6c0KHF3Fx624fEnQ/view?utm_content=DAGNOmyvUU4&utm_campaign=designshare&utm_medium=link&utm_source=editor 
